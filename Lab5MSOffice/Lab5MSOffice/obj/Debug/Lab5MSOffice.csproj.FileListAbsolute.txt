@@ -1,0 +1,14 @@
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Lab5MSOffice.Form1.resources
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Lab5MSOffice.Properties.Resources.resources
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Lab5MSOffice.csproj.GenerateResource.cache
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\bin\Debug\Lab5MSOffice.exe.config
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\bin\Debug\Lab5MSOffice.exe
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\bin\Debug\Lab5MSOffice.pdb
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Interop.ExcelAdaptorLib.dll
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Interop.TASKLAUNCHLib.dll
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Interop.WordAdapterLib.dll
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Lab5MSOffice.csproj.ResolveComReference.cache
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Lab5MSOffice.exe
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Lab5MSOffice.pdb
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Interop.ExcelClientPkgLib.dll
+D:\универ\4 курс\Инструментальные средства ИС\05 - MS Office\Lab5MSOffice\Lab5MSOffice\obj\Debug\Lab5MSOffice.csprojResolveAssemblyReference.cache
